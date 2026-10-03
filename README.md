@@ -70,8 +70,6 @@ Metrics: robustness score, defect tolerance, shape deviation, number of evaluati
 
 - **Scaffold routing is fixed** in v1. Learning the routing is a possible extension.
 - Targets start as **2D sheets** built from parallel helices. More complex shapes come later.
-- This is **not** protein folding and does **not** model kinetic folding pathways. Annealing protocol control is a possible second control problem.
-- Robustness scores are computed in silico, and no wet-lab validation is planned.
 
 ## Open design decisions
 
