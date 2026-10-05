@@ -5,3 +5,6 @@ __pycache__/
 outputs/
 *.png
 !docs/*.png
+
+
+thinking-process.txt
