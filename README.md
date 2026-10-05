@@ -31,6 +31,12 @@ Sub-questions:
 - Staples hold neighboring helices together, which gives the sheet its rigidity and its shape.
 - In the lab all staples are mixed with the scaffold at once and annealed.
 
+## Key papers
+
+- [ ] Rothemund, P. W. K. (2006). *Folding DNA to create nanoscale shapes and patterns.* Nature 440, 297–302. The origin of the task: a ~7 kb scaffold and over 200 staples fold into arbitrary 2D shapes.
+- [ ] SantaLucia, J. Jr (1998). *A unified view of polymer, dumbbell, and oligonucleotide DNA nearest-neighbor thermodynamics.* PNAS 95(4), 1460–1465. The nearest-neighbor energy model behind the level-1 (thermodynamic) reward.
+- [ ] Castro, C. E. et al. (2011). *A primer to scaffolded DNA origami.* Nature Methods 8(3), 221–229. A practical guide to design rules (helix packing, crossover spacing, routing) and to the conditions under which a structure holds together. It grounds the staple constraints and the level-2 (mechanical) robustness score.
+
 ## MDP formulation (draft)
 
 | Component | Definition |
